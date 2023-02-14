@@ -1,0 +1,9 @@
+To solve this assignment I use these steps:-
+
+1:- First I Create React App (CRA) as the boilerplate for this app.
+2:- I Create a new component called UseRefDemo that uses the useRef hook to create a simple counter.
+3:- The counter should have two values: count and countRef. The count value should be updated using the useState hook, and the countRef value should be updated using the useRef hook.
+4:- I Add a button to the component that increments both count and countRef when clicked.
+5:- I Display the values of count and countRef in the component so that the user can see them.
+7:- I made a seperate boilerplate folder and inside this folder I made a file UseRefDemo component.
+6:- I Write Cypress test cases that verify the functionality of the UseRefDemo component. The test cases should simulate clicking the "Increment Count" button and checking that the values of count and countRef update correctly.
